@@ -655,19 +655,3 @@ If the original target of a symbolic link is removed or moved, the symbolic link
 | `find`  | Search for files and directories       |
 | `ln`    | Create hard links and symbolic links   |
 | `netstat` | Show network connections and ports   |
-
-#netstat Quick Overview
-
-| Option | Purpose |
-| ------ | ------- |
-| `-a` | Show all sockets |
-| `-t` | Show TCP sockets |
-| `-u` | Show UDP sockets |
-| `-l` | Show listening sockets |
-| `-n` | Show numerical IP addresses and ports |
-| `-p` | Show PID and program |
-| `-r` | Show routing table |
-| `-i` | Show network interfaces |
-| `-s` | Show protocol statistics |
-| `-c` | Continuously refresh output |
-| `-v` | Verbose output |
