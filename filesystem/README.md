@@ -882,7 +882,7 @@ sudo ss -tulpn
 | `ln`    | Create hard links and symbolic links   |
 | `netstat` | Show network connections and ports   |
 
-## netstat Quick Overview
+#netstat Quick Overview
 
 | Option | Purpose |
 | ------ | ------- |
@@ -897,4 +897,3 @@ sudo ss -tulpn
 | `-s` | Show protocol statistics |
 | `-c` | Continuously refresh output |
 | `-v` | Verbose output |
-
